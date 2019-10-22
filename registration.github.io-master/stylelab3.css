@@ -1,0 +1,52 @@
+.line{
+    text-decoration-line: underline;
+}
+
+.right{
+  font-weight: bold;
+
+}
+.column{
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px;
+}
+.sub{
+    margin-top: 195px;
+    margin-bottom: 0;
+    background-color: bisque;
+    padding-left:50%;
+    padding-right:50px ;
+    padding-top: 5px ;
+    padding-bottom: 35px ;
+
+}
+.content{
+    background-color: floralwhite;
+    margin-left: 10%;
+    width: 70%;
+}
+body{
+    background-color: darkslategrey;
+ border: 1px solid black;
+
+}
+.ha{
+    display: inline-block;
+}
+.check{
+    margin-left: 40px;
+}
+.hi{
+    display: inline-block;
+}
+.h{
+    background-color: lightsteelblue;
+    padding-top: 5px ;
+    padding-bottom: 5px ;
+
+}
+.order{
+    margin-left: 35%;
+}

@@ -1,0 +1,46 @@
+body{
+    background-color: antiquewhite;
+    margin: 1%;
+    padding: 0;
+    font-size: 100%;
+    line-height: 1;
+
+}
+p{
+    font-family: "Times New Roman";
+}
+h1{
+    color: blue;
+    font-weight: bolder;
+}
+
+.container{
+    color: dimgray;
+    list-style-type: decimal;
+
+}
+.awesome{
+    color: red;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: small;
+    text-decoration-line: none;
+}
+a:hover{
+    text-decoration-line: underline;
+}
+ h2{
+    color: cornflowerblue;
+    font-family: "Courier New";
+
+}
+ p::first-letter{
+     font-size: large;
+ }
+
+ ul{
+     color: dimgray;
+ }
+ .declare{
+     list-style-type: none;
+ }
